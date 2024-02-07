@@ -8,6 +8,6 @@ jobs:
         run: echo "Hello World!"
       - name: HTML Preview
         id: html_preview
-        uses: htmlpreview/htmlpreview.github.comn@v2
+        uses: htmlpreview/htmlpreview.github.com@v2
         with:
           html_file: 'index.html'
